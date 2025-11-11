@@ -1,0 +1,65 @@
+.image{
+  background-image: url(https://avatars.mds.yandex.net/i?id=4f9dafa6e45eec8069bbd1198acb7bb5a2b48d85-8194230-images-thumbs&n=13);
+  }
+
+ol{
+  font-family: Arial;
+  font-size: 16px;
+  background-color: #FFDAB9;
+}
+
+p{
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.head{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+  font-family: arial;
+  color: brown;
+  background-color: #FFEBCD;
+}
+
+.foot{
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+  font-family: arial;
+  color: brown;
+  background-color: #FFEBCD;
+}
+
+h1{
+  font-family: Calibri;
+  font-size: 30px;
+  color:#D2691E;
+  text-align: center;
+}
+
+.Div_2{
+  background-color: #FFE4C4;
+  text-align: left;
+}
+
+img{
+   border-radius: 30px;
+}
+
+.button-link{
+  display: inline-block;
+padding: 10px 20px;
+background-color: #DEB887;
+color: white;
+text-decoration: none;
+border-radius: 4px;
+font-family: Arial, sans-serif;
+font-size: 16px;
+}
+
+.button-link:hover {
+background-color: #F5DEB3;
+}
